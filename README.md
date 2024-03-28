@@ -3,7 +3,11 @@ This project is a simple ToDoList application built using React and Tailwind(for
 
 # Features
 Add tasks with titles, descriptions, and due dates.
+
 Mark tasks as completed.
+
 Delete tasks.
+
 Responsive layout.
+
 Simple and intuitive user interface.
