@@ -1,13 +1,8 @@
-# ToDoList React Project
-This project is a simple ToDoList application built using React and Tailwind(for CSS). It allows users to add tasks with titles, descriptions, and due dates, mark tasks as completed, and delete tasks. The application utilizes state management with React Hooks.
+# React + Vite
 
-# Features
-Add tasks with titles, descriptions, and due dates.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Mark tasks as completed.
+Currently, two official plugins are available:
 
-Delete tasks.
-
-Responsive layout.
-
-Simple and intuitive user interface.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
